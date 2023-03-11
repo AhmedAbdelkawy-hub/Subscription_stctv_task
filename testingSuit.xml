@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite  name="Subscription_stctvSuite">
+<parameter name = "Browser" value = "Chrome" ></parameter>
+  <test name="TCs">
+    <classes>
+      <class name="tests.KSATest"/>
+      <class name="tests.BahrainTest"/>
+      <class name="tests.KuwaitTest"/>
+    </classes>
+  </test> 
+</suite> 

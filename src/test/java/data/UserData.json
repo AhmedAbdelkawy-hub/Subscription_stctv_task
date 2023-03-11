@@ -1,0 +1,19 @@
+[
+  {
+    "CountryName_K": "KSA",
+    "CountryName_KW": "Kuwait",
+    "CountryName_BA": "Bahrain",
+    "LiteName": "LITE",
+    "ClassicName": "CLASSIC",
+    "PremiumName": "PREMIUM",
+    "LiteMonthlyPriceAndCurrency_K": "15 SAR/month",
+    "ClassicMonthlyPriceAndCurrency_K": "25 SAR/month",
+    "PremiumMonthlyPriceAndCurrency_K": "60 SAR/month",
+    "LiteMonthlyPriceAndCurrency_KW": "1.2 KWD/month",
+    "ClassicMonthlyPriceAndCurrency_KW": "2.5 KWD/month",
+    "PremiumMonthlyPriceAndCurrency_KW": "4.8 KWD/month",
+    "LiteMonthlyPriceAndCurrency_BA": "2 BHD/month",
+    "ClassicMonthlyPriceAndCurrency_BA": "3 BHD/month",
+    "PremiumMonthlyPriceAndCurrency_BA": "6 BHD/month"
+  }
+  ]
